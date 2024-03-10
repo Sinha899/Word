@@ -1,0 +1,28 @@
+body{
+    background-color: red;
+    text-align: center;
+}
+#counter{
+    color: greenyellow;
+    font-size: 20px;
+}
+p{
+    color: darkcyan;
+}
+h2{
+font-size: 30px; 
+color: red;
+}
+.container{
+    border: 4px solid black;
+    box-shadow: 5px 10px;
+    position: absolute;
+    top: 250px;
+    right: 550px;
+    padding: 40px;
+    background-color: blue;
+}
+input{
+    width:calc(100% - 22px);
+    padding: 10px;
+}
